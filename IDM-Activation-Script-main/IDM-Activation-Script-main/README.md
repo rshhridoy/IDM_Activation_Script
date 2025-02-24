@@ -13,7 +13,7 @@ I want to clarify that I am not the original author of this script. When I initi
 
 # IAS Latest Release
 Last Release - v1.2 (12-Feb-2024)
-[GitHub](https://github.com/lstprjct/IDM-Activation-Script)
+[GitHub]([https://github.com/rshhridoy])
 
 # Download / How to use it?
 First fresh install [Internet Download Manager](https://www.internetdownloadmanager.com/). Make sure previous cracks/patches are removed/uninstalled if there are any.
@@ -33,9 +33,9 @@ After that follow the below steps to activate it.
 
 # Method 2 - Traditional
 
-* Download the file from [GitHub](https://github.com/lstprjct/IDM-Activation-Script/archive/refs/heads/main.zip)
+* Download the file from [GitHub](IDM-Activation-Script-main/IDM-Activation-Script-main)
 * Right-click on the downloaded zip file and extract
-* In the extracted folder, run the file named `IAS.cmd`
+* In the extracted folder, run the file named `Hridoy.cmd`
 * You will see the activation options, and follow onscreen instructions.
 * That’s all.
 
@@ -71,38 +71,11 @@ After that follow the below steps to activate it.
 
 # Troubleshoot
 * Browser Integration Fix: [Chrome](https://www.internetdownloadmanager.com/register/new_faq/bi9.html) - [Firefox](https://www.internetdownloadmanager.com/register/new_faq/bi4.html)
-* Reach out to us on [Telegram](https://t.me/ModByPiash) with an error screenshot.
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png)](https://t.me/ModByPiash)
 
 # Changelog
 ## v1.2
 * Added back activation option with a randomized name, email, and key in registration details along with a warning that it’s not working for some users, the recommended option is to use Freeze trial.
-## v1.1
-* IDM update 6.42b3 has started showing fake serial popups with IAS activation, due to this we have removed the activation option and replaced it with the Freeze trial option to lock the 30-day trial period for the lifetime.
-* Now the script will disable quick-edit in CMD windows using Powershell instead of editing the registry, thanks to @abbodi1406 for the code and @awuctl for the idea.
-* Code to relaunch script with conhost.exe to avoid terminal app is now merged in quick-edit disable code, thanks to @abbodi1406.
-Updated full code from [WindowsAddict ](https://massgrave.dev/idm-activation-script)
-## v1.0
-* Added the code to relaunch the script with conhost.exe if the script is running from the terminal app.
-* Fixed an issue in getting the current user account SID.
-## v0.9
-* Fixed an issue where the script can not activate and reset IDM in non-admin user accounts.
-* Fixed an issue where the script incorrectly shows that IDM is activated.
-* Fixed an issue where a fake serial pop-up may appear. The script will also show the info to run the activation option again without using the reset option.
-* IDM registry scanning and locking code is now written in Powershell.
-* The script update checker code is added to the script.
-* The script will now disable quick edit mode temporarily because users often click inside the script window and it pauses the script.
-* The script will back up the CLSISD registry keys before performing operations on them.
-* Many error checks are added to better identify the issues.
-## v0.8
-* Move the project to [Github](https://github.com/lstprjct/IDM-Activation-Script)
-* Minor bug fixes
-* Add info to inform users that empty registry keys are being deleted when the script deletes a lot of them
 
-# Screenshots
-![IAS](https://github.com/lstprjct/IDM-Activation-Script/assets/88411318/fafdb481-c497-464f-b1e6-9a4254eaf880)
-
-![IAS_Freeze_Trial](https://github.com/lstprjct/IDM-Activation-Script/assets/88411318/76b36582-8cf4-4d1e-870f-6e8e57c80a87)
 
 # Credits
 
@@ -113,8 +86,8 @@ Updated full code from [WindowsAddict ](https://massgrave.dev/idm-activation-scr
 | [abbodi1406](https://github.com/abbodi1406) | Help in coding                                                                                                                                                                                                                         |
 | WindowsAddict                               | Original [IAS](https://github.com/WindowsAddict/IDM-Activation-Script) Author                                                                                                                                                                                                                             |
 
-And thanks to the IAS users for their interest, feedback, and assistance.
+And thanks to the users for their interest, feedback, and assistance.
 
 ------------------------------------------------------------------------
 
-Made with Love ❤️
+Made For Users ❤️
